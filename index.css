@@ -1,0 +1,20 @@
+.center {
+  margin: auto;
+  width: 50%;
+  background-color: #EEEEEE;
+}
+pre{
+  color: black;
+  font-size: 15px;
+}
+
+h1{
+  text-align: center;
+}
+
+h2{
+  color: #F8485E;
+}
+h3{
+  color: #00C1D4;
+}
